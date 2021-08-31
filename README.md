@@ -13,4 +13,4 @@
 
 ### 포켓몬 화면
 a
-[a]: <img src ='https://user-images.githubusercontent.com/59843639/131524880-6d648fdd-a128-4c8b-88e3-c500959a57aa.png' width = '300'>
+[a]:'https://user-images.githubusercontent.com/59843639/131524880-6d648fdd-a128-4c8b-88e3-c500959a57aa.png'

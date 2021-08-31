@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PokemonBreeding</string>
+    <string name="fire">Fire</string>
+    <string name="water">Water</string>
+    <string name="grass">Grass</string>
+    <string name="start_game">Open Pokeball to Play</string>
+    <string name="level">Level</string>
+    <string name="bulbasaur">이상해씨</string>
+    <string name="charmander">파이리</string>
+    <string name="squirtle">꼬부기</string>
+</resources>

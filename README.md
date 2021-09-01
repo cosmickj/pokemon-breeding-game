@@ -18,7 +18,7 @@
 
 ### 암시적 인텐트(Implicit Intent) 활용 화면
 포켓몬 이름을 클릭하여 포켓몬 도감 사이트로 연결합니다.
-<img src = 'https://user-images.githubusercontent.com/59843639/131598384-b612926c-ff44-44ab-83a0-0397e01fbd27.png' width = '40%'>
+<img src = 'https://user-images.githubusercontent.com/59843639/131598384-b612926c-ff44-44ab-83a0-0397e01fbd27.png'>
 
 ### 종료 확인 버튼
 <img src = 'https://user-images.githubusercontent.com/59843639/131528223-bf2e669c-4083-4286-822e-4d6c0b70fb01.png' width = '30%'>
